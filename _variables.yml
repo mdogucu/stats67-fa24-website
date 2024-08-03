@@ -1,0 +1,58 @@
+author: "Mine Dogucu"
+institute: "University of California Irvine"
+department: "Department of Statistics"
+
+course:
+  code: "STATS 67"
+  short-title: "Stats 4 CS"
+  long-title: "Introduction to Probability and Statistics for Computer Science"
+  term: "Fall"
+  year: "2024"
+  site: "https://www.stats4cs.cpm/"
+  github-org: "https://github.com/mdogucu?tab=repositories&q=stats67-fa24&type=&language=&sort="
+  discussion: "https://edstem.org/us/courses/61625"
+  lms: "https://canvas.eee.uci.edu/courses/64907/gradebook"
+  gradescope: "https://www.gradescope.com/courses/814893"
+  
+instructor:
+  name: "Dr. Mine Dogucu"
+  email: "mdogucu@uci.edu"
+  website: "https://www.minedogucu.com"
+  pronoun: "she/they"
+  photo: "img/mine-dogucu.jpeg"
+  audio: "mine-dogucu.mp3"
+  office-hours: "W 2:00 - 3:00 pm in person and online"
+  zoom: "https://uci.zoom.us/j/91373871590"
+  office : "DBH 2204"
+  
+  
+ta1: 
+  name: XXX
+  email: "xxx@uci.edu"
+  pronoun: "he/him"
+  photo: "img/ta1.jpeg"
+  audio: "ta1.mp3"
+  office-hours: "Tu 9:00 - 10 am and Th 9:30 - 10: 30 am in person and online"
+  office: "DBH 2013"
+  zoom: "https://uci.zoom.us/j/92961182974"
+  
+  
+ta2: 
+  name: Jizhi Zhang
+  email: "jizhiz@uci.edu"
+  pronoun: "he/him"
+  photo: "img/ta2.png"
+  audio: "ta2.mp3"
+  office-hours: "M 4 - 5 pm and F 4 - 5 pm in person and online"
+  office: "DBH 2013"
+  zoom: "https://uci.zoom.us/j/82669787158"
+  
+ta3: 
+  name: Christian Bernal Zelaya
+  email: "cbernalz@uci.edu"
+  pronoun: "he/him"
+  photo: "img/ta3.jpeg"
+  audio: "ta3.mp3"
+
+  
+
