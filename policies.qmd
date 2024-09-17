@@ -114,7 +114,7 @@ I would highly encourage you to attend office hours and you can attend any offic
 Attending office hours is an effective way to ask me or your TA questions you may have.
 They are also a great time to just chat with us if it is not too crowded :)
 
-We want to be mindful of you who commute to campus so if you'd choose to attend office hours virtually, we will also be available online via zoom. The hours and locations can be checked under [People](people.qmd). [UCI zoom account](https://uci.zoom.us/) to attend the zoom meeting.
+We want to be mindful of you who commute to campus so if you'd choose to attend office hours virtually, we will also be available online via zoom. The hours and locations can be checked under [People](people.qmd). You need a [UCI zoom account](https://uci.zoom.us/) to attend the zoom meeting.
 
 
 ### Online Discussion 
@@ -128,7 +128,7 @@ We will have an [online forum]({{< var course.discussion >}}). While communicati
 - If you choose to post memes or any jokes, be mindful. Any joke about a person, or a group of people, or cultures is not funny. However, statistics and data science jokes are always welcome.
 
 - There are absolutely no stupid questions. Do not feel shy about asking questions. Do not judge anyone about any question that they ask.
-You can post anonymously. Others would not know who you are but I would know who you are.
+You can post anonymously. Others would not know who you are but the teaching team would know who you are.
 
 - If somebody asks a question about homework etc. do not reveal answers for them. Instead, help them learn and show them in which lecture we have covered the topic.
 
@@ -160,7 +160,7 @@ Your name
 
 You are expected to comply to the rules set by the [Office of Academic Integrity and Student Conduct](https://aisc.uci.edu/).
 This syllabus (i.e., course website) clearly labels instructions on when and how you can work with others, tools you can use, and under what conditions.
-If there are no instructions for any assignments, you should assume that the work should be completed by you only from start to finish without help of others and AI tools like ChatGPT. Academic dishonesty includes, for example, cheating on examinations or any assignment, plagiarism of any kind (including improper citation of sources), having someone else take an examination or complete an assignment for you (or doing it for someone else), or any activity in which you represent someone else’s work as your own. Violations of academic integrity will be referred to the Office of Academic Integrity and Student Conduct. You cannot share or distribute solutions online or offline or in any media now or in the future. You cannot obtain solutions from others. If there is evidence of academic misconduct , intentionally or unintentionally, YOU WILL FAIL THE CLASS. This rule applies even if you violate the policies of this course on a single problem, on an assignment, the whole assignment or multiple assignments. No matter what the degree of academic dishonesty is, you will fail the class. It is your responsibility to protect your answers being copied. Make sure not to save work on shared folders. It may be difficult to distinguish helping each other learn and cheating together. If you are unsure of the distinction check with me before hand.
+If there are no instructions for any assignments, you should assume that the work should be completed by you only from start to finish without help of others and AI tools like ChatGPT. Academic dishonesty includes, for example, cheating on examinations or any assignment, plagiarism of any kind (including improper citation of sources), having someone else take an examination or complete an assignment for you (or doing it for someone else), or any activity in which you represent someone else’s work as your own. Violations of academic integrity will be referred to the Office of Academic Integrity and Student Conduct. You cannot share or distribute solutions online or offline or in any media now or in the future. You cannot obtain solutions from others. If there is evidence of academic misconduct , intentionally or unintentionally, YOU MAY FAIL THE CLASS. This rule applies even if you violate the policies of this course on a single problem, on an assignment, the whole assignment or multiple assignments. No matter what the degree of academic dishonesty is, you may fail the class. It is your responsibility to protect your answers being copied. Make sure not to save work on shared folders. It may be difficult to distinguish helping each other learn and cheating together. If you are unsure of the distinction check with me before hand.
 
 ## Dissability Accomodations
 
