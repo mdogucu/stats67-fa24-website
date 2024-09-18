@@ -11,12 +11,12 @@
     	<ul class="timeline">
     	  <li> <b>Sunday 11:59 pm</b> | Previous week's homework due </li>
     	  <li> <b>Monday</b> | You all attend lecture </li>
-    	  <li> <b>Monday 2: 30 - 3:30 pm</b> | Dr. Dogucu holds office hours. </li>
-    	  <li> <b>Tuesday XXX</b> | XXX holds office hours </li>
+    	  <li> <b>Monday 2:30 - 3:30 pm</b> | Dr. Dogucu holds office hours. </li>
+    	  <li> <b>Tuesday 3:30 - 4:30 pm</b> | Peter holds office hours </li>
     	  <li> <b>Wednesday </b> | You all attend lecture </li>
     	  <li> <b>Wednesday pm</b> | Group A attends discussion </li>
     	  <li> <b>Wednesday XX pm</b> | XXX holds office hours </li>
-    	  <li> <b>Thursday  am </b> | XXX holds office hours </li>
+    	  <li> <b>Thursday  10:30 - 11 am </b> | Peter holds office hours </li>
     	  <li> <b>Thursday pm</b> | Group B attends discussion </li>
     	  <li> <b>Friday XXX</b> | XXXX holds office hours </li>
     		
