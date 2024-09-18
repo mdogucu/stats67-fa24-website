@@ -35,9 +35,7 @@ Office Hours: <br> {{< var instructor.office-hours >}}
 {{< var ta1.pronoun >}}
 [{{< var ta1.email >}}](mailto: {{< var ta1.email >}})
 
-<img src="img/ta1.jpeg" class="rounded-circle center mx-auto d-block"
-     alt="A headshot of a woman with curly, short, ear-length hair with green eyes and red lipstick."
-     style="float: left; margin-right: 10px; width: 100%; padding-bottom:20px;" />
+<img src="img/ta1.jpeg" class="rounded-circle center mx-auto d-block" style="float: left; margin-right: 10px; width: 100%; padding-bottom:20px;" />
      
 
 Office Hours: <br> {{< var ta1.office-hours >}} 
@@ -68,9 +66,7 @@ Office Hours: <br> {{< var ta1.office-hours >}}
 {{< var ta2.pronoun >}}
 [{{< var ta2.email >}}](mailto: {{< var ta2.email >}})
 
-<img src="img/ta2.png" class="rounded-circle center mx-auto d-block"
-     alt="A headshot of a woman with curly, short, ear-length hair with green eyes and red lipstick."
-     style="float: left; margin-right: 10px; width: 100%; padding-bottom:20px;" />
+<img src="img/ta2.jpeg" class="rounded-circle center mx-auto d-block" style="float: left; margin-right: 10px; width: 100%; padding-bottom:20px;" />
      
 
 Office Hours: <br> {{< var ta2.office-hours >}} 
@@ -96,7 +92,6 @@ Office Hours: <br> {{< var ta2.office-hours >}}
 [{{< var ta3.email >}}](mailto: {{< var ta3.email >}})
 
 <img src="img/ta3.jpeg" class="rounded-circle center mx-auto d-block"
-     alt="A headshot of a woman with curly, short, ear-length hair with green eyes and red lipstick."
      style="float: left; margin-right: 10px; width: 100%; padding-bottom:20px;" />
      
 
