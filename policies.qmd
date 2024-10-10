@@ -98,7 +98,7 @@ The weighted percentage score will be assigned a letter grade based on the follo
   </tbody>
   </table>
   
-### Late Work Policy
+### Late Work and Excused Absences 
 
 {{< include specific-content/policies/03c-late-policy.qmd >}}
 
