@@ -22,7 +22,7 @@
     <td><input type="checkbox" /></td>
     <td> Inference of Difference of Two Proportions &nbsp; &nbsp; </td>
     <td></td>
-    <td><a href="https://mdogucu.github.io/stats67-fa24-slides/week07/7a-diff-props.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+    <td><a href="https://mdogucu.github.io/stats67-fa24-slides/week07/7b-diff-props.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></td>
     <td></td>
   </tr>
