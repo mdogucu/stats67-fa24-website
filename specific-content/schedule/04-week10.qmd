@@ -51,7 +51,7 @@
     <td>Optional. If you submit the homework it will be graded.</td>
     <td><a href="https://www.gradescope.com/courses/814893/assignments/5332778" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
             title="External Link to Gradescope" target = "_blank"></i></a></td>
-    <td>Dec 3, 5:00 pm</td>
+    <td>Dec 4, 11:59 pm</td>
   </tr>
         
 </table>
